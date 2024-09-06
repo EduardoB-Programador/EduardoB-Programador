@@ -8,7 +8,9 @@ Eu gosto muito de aprender coisas novas envolvendo tecnologia e outras coisas da
 
 | As que eu sei | As que estou aprendendo | As que quero aprender |
 |:-------------:|:-----------------------:|:---------------------:|
-|Java           | Spring boot             | C#                    |
+|Java           | Spring boot             | C# 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+                             |
 
 
 ## English
