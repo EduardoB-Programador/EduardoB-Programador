@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 96 96" id="Intellij-Idea--Streamline-Svg-Logos" height="24" width="24">
+  <desc>
+    Intellij Idea Streamline Icon: https://streamlinehq.com
+  </desc>
+  <path fill="url(#a)" d="M15.8834 67.2994 2.05762 56.3817l8.13688-15.0694 12.2298 4.0929-6.5409 21.8942Z"></path>
+  <path fill="#087cfa" d="m94.9994 26.0569-1.6939 54.4417-36.2096 14.5015-19.7204-12.7292 57.6239-56.214Z"></path>
+  <path fill="url(#b)" d="M95.0004 26.0569 77.0817 43.535 54.0713 15.3056 65.4296 2.53729 95.0004 26.0569Z"></path>
+  <path fill="url(#c)" d="M37.376 82.2708 8.57875 92.6794l6.03165-21.1206 7.8138-26.1536L1 38.2377 14.6104 1l30.7654 3.63271L77.0813 43.535 37.376 82.2708Z"></path>
+  <path fill="#000000" d="M19.0459 18.625h58.75v58.75h-58.75v-58.75Z"></path>
+  <path fill="#ffffff" d="M26.3701 66.2712h22.0313v3.6719H26.3701v-3.6719Zm10.9961-36.2683v-4.0146H26.4093v4.0146h3.0746v13.865h-3.0746v4.0146h10.9569v-4.0146h-3.0648v-13.865h3.0648Zm10.4379 18.1538.0685.0391c-1.4932.0483-2.9736-.2889-4.2985-.9791-1.0884-.586-2.058-1.3697-2.8592-2.3109l3.0256-3.3781c.5528.6238 1.1926 1.1646 1.8996 1.6058.6318.3917 1.362.5954 2.1052.5875.8042.0387 1.586-.2718 2.1444-.8518.5898-.7975.8683-1.7828.7833-2.7711V25.9688h4.8959v14.3447c.0218 1.1619-.1605 2.3185-.5386 3.4173-.6523 1.8509-2.1233 3.2965-3.9852 3.9167-1.0434.3532-2.1396.5254-3.241.5092Z"></path>
+  <defs>
+    <linearGradient id="a" x1="756.365" x2="3634.63" y1="1367.1" y2="1220.72" gradientUnits="userSpaceOnUse">
+      <stop offset=".09" stop-color="#fc801d"></stop>
+      <stop offset=".23" stop-color="#b07f61"></stop>
+      <stop offset=".41" stop-color="#577db3"></stop>
+      <stop offset=".53" stop-color="#1e7ce6"></stop>
+      <stop offset=".59" stop-color="#087cfa"></stop>
+    </linearGradient>
+    <linearGradient id="b" x1="3064.71" x2="1505.43" y1="4707.43" y2="48.168" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fe2857"></stop>
+      <stop offset=".08" stop-color="#cb3979"></stop>
+      <stop offset=".16" stop-color="#9e4997"></stop>
+      <stop offset=".25" stop-color="#7557b2"></stop>
+      <stop offset=".34" stop-color="#5362c8"></stop>
+      <stop offset=".44" stop-color="#386cda"></stop>
+      <stop offset=".54" stop-color="#2373e8"></stop>
+      <stop offset=".66" stop-color="#1478f2"></stop>
+      <stop offset=".79" stop-color="#0b7bf8"></stop>
+      <stop offset="1" stop-color="#087cfa"></stop>
+    </linearGradient>
+    <linearGradient id="c" x1="2173.2" x2="7565.82" y1="2165.94" y2="11086" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fe2857"></stop>
+      <stop offset=".08" stop-color="#fe295f"></stop>
+      <stop offset=".21" stop-color="#ff2d76"></stop>
+      <stop offset=".3" stop-color="#ff318c"></stop>
+      <stop offset=".38" stop-color="#ea3896"></stop>
+      <stop offset=".55" stop-color="#b248ae"></stop>
+      <stop offset=".79" stop-color="#5a63d6"></stop>
+      <stop offset="1" stop-color="#087cfa"></stop>
+    </linearGradient>
+  </defs>
+</svg>
